@@ -5,4 +5,4 @@ This is a simple, self contained web application for scraping websites for perso
 Simply drag-and-drop onto a webserver with Python(3+) and PHP(7.0+) installed.
 Run "pip install -r requirements.txt" to gather all other dependencies. 
  
-![Image description](https://github.com/robertegj/scannr/blob/master/screenshot.png)
+![App Screenshot](https://github.com/robertegj/scannr/blob/master/screenshot.png)
